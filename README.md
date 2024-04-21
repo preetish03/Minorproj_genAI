@@ -1,0 +1,1 @@
+# Minorproj_genAI
